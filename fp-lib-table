@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Connector_USB_Extra)(type KiCad)(uri ${KIPRJMOD}/modules/Connector_USB_Extra.pretty)(options "")(descr ""))
+  (lib (name Symbol_Extra)(type KiCad)(uri ${KIPRJMOD}/modules/Symbol_Extra.pretty)(options "")(descr ""))
+)
