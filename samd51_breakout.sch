@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:samd51_breakout-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -513,7 +514,7 @@ $EndComp
 Wire Wire Line
 	7650 2250 7500 2250
 $Comp
-L Connector:USB_C_Receptacle_USB2.0 J2
+L samd51_breakout-rescue:USB_C_Receptacle_USB2.0-Connector J2
 U 1 1 5C182564
 P 1650 2000
 F 0 "J2" H 2050 2750 50  0000 R CNN

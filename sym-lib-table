@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name MCU_Microchip_SAMD)(type Legacy)(uri ${KIPRJMOD}/library/MCU_Microchip_SAMD.lib)(options "")(descr ""))
+  (lib (name samd51_breakout-rescue)(type Legacy)(uri ${KIPRJMOD}/samd51_breakout-rescue.lib)(options "")(descr ""))
 )

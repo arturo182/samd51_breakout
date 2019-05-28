@@ -2,4 +2,8 @@
 
 This is a simple breakout board for the ATSAMD51J MCU.
 
-![](./3d.png)
+![](./img/front.png)
+
+![](./img/back.png)
+
+![](./img/sideways.png)
